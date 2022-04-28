@@ -99,5 +99,5 @@ void setup()
 # Output of the simulation :
 
 <img width="695" alt="ex01" src="https://user-images.githubusercontent.com/94836154/165752932-69e6e36f-8c5c-4378-88c2-fc0a0d1d56b3.png">
-Result:
+# Result:
 Thus interfacing input sensors with push button using tincercad software.
